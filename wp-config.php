@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'gulshan' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'gulshan' );
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'nDQ5i66kVKORJkKmKmZC' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
