@@ -75,8 +75,9 @@ $table_prefix = 'wpgl_';
  *
  * @link https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/
  */
-define( 'WP_DEBUG', false );
-
+define('WP_DEBUG', true);
+define('WP_DEBUG_LOG', true);
+define('WP_DEBUG_DISPLAY', true);
 define( 'WP_AUTO_UPDATE_CORE', 'minor' );
 
 /* Add any custom values between this line and the "stop editing" line. */
