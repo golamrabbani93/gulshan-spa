@@ -90,9 +90,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
-define('WP_DEBUG', false);
 
-define('WP_AUTO_UPDATE_CORE', 'minor');
 
 /* Add any custom values between this line and the "stop editing" line. */
 
