@@ -20,22 +20,12 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'gulshan' );
-
-/** Database username */
-define( 'DB_USER', 'gulshan' );
-
-/** Database password */
-define( 'DB_PASSWORD', 'nDQ5i66kVKORJkKmKmZC' );
-
-/** Database hostname */
-define( 'DB_HOST', 'localhost' );
-
-/** Database charset to use in creating database tables. */
-define( 'DB_CHARSET', 'utf8' );
-
-/** The database collate type. Don't change this if in doubt. */
-define( 'DB_COLLATE', '' );
+define('DB_NAME', 'gulshan');
+define('DB_USER', 'gulshan');
+define('DB_PASSWORD', 'nDQ5i66kVKORJkKmKmZC');
+define('DB_HOST', 'wordpress-gulshan-ne37gp');
+define('DB_CHARSET', 'utf8');
+define('DB_COLLATE', '');
 
 /**#@+
  * Authentication unique keys and salts.
